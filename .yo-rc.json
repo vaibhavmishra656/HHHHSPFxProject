@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "hhhh-solution",
+    "libraryId": "c066949d-4fba-44e6-9841-da6dea7fa463",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "hhhh-solution",
+    "solutionShortDescription": "hhhh-solution description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

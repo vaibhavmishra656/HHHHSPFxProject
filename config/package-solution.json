@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hhhh-solution-client-side-solution",
+    "id": "c066949d-4fba-44e6-9841-da6dea7fa463",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "hhhh-solution description"
+      },
+      "longDescription": {
+        "default": "hhhh-solution description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "hhhh-solution Feature",
+        "description": "The feature that activates elements of the hhhh-solution solution.",
+        "id": "10e7d70d-9d14-4fc0-a49c-8ab285a24907",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/hhhh-solution.sppkg"
+  }
+}
